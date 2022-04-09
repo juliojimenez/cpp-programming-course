@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: g++ build active file",
+			"label": "Build With g++",
 			"command": "/usr/bin/g++",
 			"args": [
 				"-fdiagnostics-color=always",
@@ -24,7 +24,7 @@
 		},
 		{
 			"type": "cppbuild",
-			"label": "C/C++: clang++ build active file",
+			"label": "Build With clang++",
 			"command": "/usr/bin/clang++",
 			"args": [
 				"-fdiagnostics-color=always",
